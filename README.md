@@ -10,6 +10,7 @@
 
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
+* FlexSlider 2 - [http://flexslider.woothemes.com/](http://flexslider.woothemes.com/)
 
 ### Paralax
 * Paralax.js - [http://pixelcog.github.io/parallax.js/](http://pixelcog.github.io/parallax.js/)
@@ -40,6 +41,7 @@
 
 ### Form
 * Number-divider.js - [https://tyugaev.github.io/number-divider/](https://tyugaev.github.io/number-divider/)
+* EmojiOne Area - [https://jsfiddle.net/1v03Lqnu/12/](https://jsfiddle.net/1v03Lqnu/12/)
 
 ### Tabs
 * Tabslet - [http://vdw.github.io/Tabslet/](http://vdw.github.io/Tabslet/)
