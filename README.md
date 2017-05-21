@@ -11,6 +11,7 @@
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 * FlexSlider 2 - [http://flexslider.woothemes.com/](http://flexslider.woothemes.com/)
+* SliderPro - [http://bqworks.com/slider-pro/](http://bqworks.com/slider-pro/)
 
 ### Paralax
 * Paralax.js - [http://pixelcog.github.io/parallax.js/](http://pixelcog.github.io/parallax.js/)
