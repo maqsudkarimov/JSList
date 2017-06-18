@@ -10,6 +10,7 @@
 
 ### Smooth Scroll
 * Simplr SmoothScroll - [https://github.com/simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll)
+* Scroller - [https://github.com/Omgovich/jquery-scroller](https://github.com/Omgovich/jquery-scroller)
 
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
@@ -32,6 +33,9 @@
 ### Hover
 * Tilt.js - [http://gijsroge.github.io/tilt.js/](http://gijsroge.github.io/tilt.js/)
 
+### Equal Height
+* Samesizr - [https://github.com/StephenWidom/samesizr](https://github.com/StephenWidom/samesizr)
+
 
 ## Text Effects
 
@@ -40,6 +44,9 @@
 
 ### Text typing
 * iTyped.js - [https://ityped.surge.sh/](https://ityped.surge.sh/)
+
+### Text Ellipsis
+* Ellipsis - [https://github.com/jjenzz/jquery.ellipsis](https://github.com/jjenzz/jquery.ellipsis)
 
 ---
 
