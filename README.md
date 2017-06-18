@@ -8,6 +8,9 @@
 ### Custom Scrollbars
 * Optiscroll - [https://albertogasparin.github.io/Optiscroll/](https://albertogasparin.github.io/Optiscroll/)
 
+### Smopth Scroll
+* Simplr SmoothScroll - [https://github.com/simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll)
+
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 * FlexSlider 2 - [http://flexslider.woothemes.com/](http://flexslider.woothemes.com/)
