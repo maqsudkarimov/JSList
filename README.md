@@ -3,7 +3,7 @@
 ### Modal / Lightbox
 * Lightcase - [http://cornel.bopp-art.com/lightcase/](http://cornel.bopp-art.com/lightcase/)
 * Magnific Popup - [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
-* Sweet Modal- [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
+* Sweet Modal - [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
 * Lity - [https://github.com/jsor/lity](https://github.com/jsor/lity)
 
 ### Custom Scrollbars
@@ -63,3 +63,6 @@
 
 ### Audio Player
 * Amplitude.js - [https://521dimensions.com/open-source/amplitudejs](https://521dimensions.com/open-source/amplitudejs)
+
+### Rating
+* Bar Rating - [http://antenna.io/demo/jquery-bar-rating/examples/](http://antenna.io/demo/jquery-bar-rating/examples/)
