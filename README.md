@@ -59,3 +59,6 @@
 
 ### Notifications
 * SnackbarJS - [http://fezvrasta.github.io/snackbarjs/](http://fezvrasta.github.io/snackbarjs/)
+
+### Audio Player
+* Amplitude.js - [https://521dimensions.com/open-source/amplitudejs](https://521dimensions.com/open-source/amplitudejs)
