@@ -4,6 +4,7 @@
 * Lightcase - [http://cornel.bopp-art.com/lightcase/](http://cornel.bopp-art.com/lightcase/)
 * Magnific Popup - [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
 * Sweet Modal- [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
+* Lity - [https://github.com/jsor/lity](https://github.com/jsor/lity)
 
 ### Custom Scrollbars
 * Optiscroll - [https://albertogasparin.github.io/Optiscroll/](https://albertogasparin.github.io/Optiscroll/)
