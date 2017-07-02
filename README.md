@@ -13,6 +13,7 @@
 
 ### Smooth Scroll
 * Simplr SmoothScroll - [https://github.com/simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll)
+* Smoothwheel - [https://github.com/fatlinesofcode/jquery.smoothwheel](https://github.com/fatlinesofcode/jquery.smoothwheel)
 * Scroller - [https://github.com/Omgovich/jquery-scroller](https://github.com/Omgovich/jquery-scroller)
 
 ### Slider / Carousel
