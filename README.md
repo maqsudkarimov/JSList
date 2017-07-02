@@ -9,6 +9,7 @@
 ### Custom Scrollbars
 * Optiscroll - [https://albertogasparin.github.io/Optiscroll/](https://albertogasparin.github.io/Optiscroll/)
 * Jquery Scrollbar - [https://github.com/gromo/jquery.scrollbar](https://github.com/gromo/jquery.scrollbar)
+* Perfect Scrollbar - [https://github.com/noraesae/perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar)
 
 ### Smooth Scroll
 * Simplr SmoothScroll - [https://github.com/simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll)
