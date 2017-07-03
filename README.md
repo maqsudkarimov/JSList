@@ -23,6 +23,7 @@
 
 ### Paralax
 * Paralax.js - [http://pixelcog.github.io/parallax.js/](http://pixelcog.github.io/parallax.js/)
+* Rellax - [https://github.com/dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
 
 ### Gallery
 * CollagePlus - [http://collageplus.edlea.com/](http://collageplus.edlea.com/)
