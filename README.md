@@ -70,3 +70,6 @@
 
 ### Rating
 * Bar Rating - [http://antenna.io/demo/jquery-bar-rating/examples/](http://antenna.io/demo/jquery-bar-rating/examples/)
+
+### Zoom
+* Elevate Zoom - [http://www.elevateweb.co.uk/image-zoom](http://www.elevateweb.co.uk/image-zoom)
