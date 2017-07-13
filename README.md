@@ -73,3 +73,7 @@
 
 ### Zoom
 * Elevate Zoom - [http://www.elevateweb.co.uk/image-zoom](http://www.elevateweb.co.uk/image-zoom)
+
+## Load Images
+* waitForImages - [https://github.com/alexanderdickson/waitForImages](https://github.com/alexanderdickson/waitForImages)
+* ImagesLoaded - [https://github.com/desandro/imagesloaded](https://github.com/desandro/imagesloaded)
