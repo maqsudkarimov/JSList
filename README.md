@@ -59,6 +59,9 @@
 * Number-divider.js - [https://tyugaev.github.io/number-divider/](https://tyugaev.github.io/number-divider/)
 * EmojiOne Area - [https://jsfiddle.net/1v03Lqnu/12/](https://jsfiddle.net/1v03Lqnu/12/)
 
+### Validation
+* jqBootstrapValidation - [https://github.com/ReactiveRaven/jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation)
+
 ### Tabs
 * Tabslet - [http://vdw.github.io/Tabslet/](http://vdw.github.io/Tabslet/)
 
