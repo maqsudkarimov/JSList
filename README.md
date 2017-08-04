@@ -80,3 +80,6 @@
 ### Load Images
 * waitForImages - [https://github.com/alexanderdickson/waitForImages](https://github.com/alexanderdickson/waitForImages)
 * ImagesLoaded - [https://github.com/desandro/imagesloaded](https://github.com/desandro/imagesloaded)
+
+
+* Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
