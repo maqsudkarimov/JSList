@@ -85,6 +85,7 @@
 
 ### Datepicker 
 * Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
+* Air Datepicker - [https://github.com/t1m0n/air-datepicker](https://github.com/t1m0n/air-datepicker)
 
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
