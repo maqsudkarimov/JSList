@@ -58,6 +58,8 @@
 ### Form
 * Number-divider.js - [https://tyugaev.github.io/number-divider/](https://tyugaev.github.io/number-divider/)
 * EmojiOne Area - [https://jsfiddle.net/1v03Lqnu/12/](https://jsfiddle.net/1v03Lqnu/12/)
+* RangeSlider - [https://github.com/andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js)
+* Autosize - [https://github.com/jackmoore/autosize](https://github.com/jackmoore/autosize)
 
 ### Validation
 * jqBootstrapValidation - [https://github.com/ReactiveRaven/jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation)
