@@ -81,5 +81,8 @@
 * waitForImages - [https://github.com/alexanderdickson/waitForImages](https://github.com/alexanderdickson/waitForImages)
 * ImagesLoaded - [https://github.com/desandro/imagesloaded](https://github.com/desandro/imagesloaded)
 
+### Datepicker 
+* Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
+
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
