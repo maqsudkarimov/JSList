@@ -67,6 +67,10 @@
 ### Tabs
 * Tabslet - [http://vdw.github.io/Tabslet/](http://vdw.github.io/Tabslet/)
 
+### Select
+* FastSelect - [https://github.com/dbrekalo/fastselect](https://github.com/dbrekalo/fastselect)
+* Nice Select - [https://github.com/hernansartorio/jquery-nice-select](https://github.com/hernansartorio/jquery-nice-select)
+
 ### Notifications
 * SnackbarJS - [http://fezvrasta.github.io/snackbarjs/](http://fezvrasta.github.io/snackbarjs/)
 
