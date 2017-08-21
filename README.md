@@ -34,6 +34,7 @@
 
 ### Mask
 * InputMask - [http://robinherbots.github.io/Inputmask/](http://robinherbots.github.io/Inputmask/)
+* Jquery Mask Plugin - [http://igorescobar.github.io/jQuery-Mask-Plugin/](http://igorescobar.github.io/jQuery-Mask-Plugin/)
 
 ### Hover
 * Tilt.js - [http://gijsroge.github.io/tilt.js/](http://gijsroge.github.io/tilt.js/)
@@ -91,5 +92,7 @@
 * Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
 * Air Datepicker - [https://github.com/t1m0n/air-datepicker](https://github.com/t1m0n/air-datepicker)
 
+### Timepicker
+* ClockPicker - [http://weareoutman.github.io/clockpicker/](http://weareoutman.github.io/clockpicker/)
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
