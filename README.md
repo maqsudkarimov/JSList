@@ -16,6 +16,9 @@
 * Smoothwheel - [https://github.com/fatlinesofcode/jquery.smoothwheel](https://github.com/fatlinesofcode/jquery.smoothwheel)
 * Scroller - [https://github.com/Omgovich/jquery-scroller](https://github.com/Omgovich/jquery-scroller)
 
+### Infinite Scroll
+* jScroll - [https://github.com/pklauzinski/jscroll](https://github.com/pklauzinski/jscroll)
+
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 * FlexSlider 2 - [http://flexslider.woothemes.com/](http://flexslider.woothemes.com/)
