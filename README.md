@@ -6,6 +6,9 @@
 * Sweet Modal - [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
 * Lity - [https://github.com/jsor/lity](https://github.com/jsor/lity)
 
+### Massonry
+* Salvattore - [https://github.com/rnmp/salvattore](https://github.com/rnmp/salvattore)
+
 ### Custom Scrollbars
 * Optiscroll - [https://albertogasparin.github.io/Optiscroll/](https://albertogasparin.github.io/Optiscroll/)
 * Jquery Scrollbar - [https://github.com/gromo/jquery.scrollbar](https://github.com/gromo/jquery.scrollbar)
