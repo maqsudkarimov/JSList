@@ -102,3 +102,6 @@
 * ClockPicker - [http://weareoutman.github.io/clockpicker/](http://weareoutman.github.io/clockpicker/)
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
+
+### Charts
+* Easy Pie Chart - [https://github.com/rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart)
