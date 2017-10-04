@@ -105,3 +105,6 @@
 
 ### Charts
 * Easy Pie Chart - [https://github.com/rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart)
+
+###
+* TableSorter - [https://github.com/Mottie/tablesorter](https://github.com/Mottie/tablesorter)
