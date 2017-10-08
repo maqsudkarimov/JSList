@@ -8,6 +8,7 @@
 
 ### Masonry
 * Salvattore - [https://github.com/rnmp/salvattore](https://github.com/rnmp/salvattore)
+* Masonry - [https://masonry.desandro.com](https://masonry.desandro.com)
 
 ### Custom Scrollbars
 * Optiscroll - [https://albertogasparin.github.io/Optiscroll/](https://albertogasparin.github.io/Optiscroll/)
