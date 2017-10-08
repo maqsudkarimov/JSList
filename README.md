@@ -21,6 +21,7 @@
 
 ### Infinite Scroll
 * jScroll - [https://github.com/pklauzinski/jscroll](https://github.com/pklauzinski/jscroll)
+* Infinite scroll -[https://github.com/metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll)
 
 ### Slider / Carousel
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
@@ -101,10 +102,13 @@
 ### Timepicker
 * ClockPicker - [http://weareoutman.github.io/clockpicker/](http://weareoutman.github.io/clockpicker/)
 
-* Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
-
 ### Charts
 * Easy Pie Chart - [https://github.com/rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart)
 
 ### Table
 * TableSorter - [https://github.com/Mottie/tablesorter](https://github.com/Mottie/tablesorter)
+
+
+
+
+* Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
