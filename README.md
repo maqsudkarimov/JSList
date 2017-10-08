@@ -110,6 +110,9 @@
 * TableSorter - [https://github.com/Mottie/tablesorter](https://github.com/Mottie/tablesorter)
 
 
+### Page Transition
+* LookForward - [https://github.com/appleple/lookforward](https://github.com/appleple/lookforward)
+
 
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
