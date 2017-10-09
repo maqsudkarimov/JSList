@@ -113,6 +113,8 @@
 ### Page Transition
 * LookForward - [https://github.com/appleple/lookforward](https://github.com/appleple/lookforward)
 
-
+# Image Blur
+* Background Blur - [https://github.com/msurguy/background-blur](https://github.com/msurguy/background-blur)
+* StackBlur - [https://github.com/flozz/StackBlur](https://github.com/flozz/StackBlur)
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
