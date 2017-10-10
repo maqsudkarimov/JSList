@@ -1,6 +1,7 @@
 # The Best Javascript / JQuery scripts List
 
 ### Modal / Lightbox
+* IziModal - [https://github.com/dolce/iziModal](https://github.com/dolce/iziModal)
 * Lightcase - [http://cornel.bopp-art.com/lightcase/](http://cornel.bopp-art.com/lightcase/)
 * Magnific Popup - [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
 * Sweet Modal - [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
