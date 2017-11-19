@@ -21,6 +21,10 @@
 * Smoothwheel - [https://github.com/fatlinesofcode/jquery.smoothwheel](https://github.com/fatlinesofcode/jquery.smoothwheel)
 * Scroller - [https://github.com/Omgovich/jquery-scroller](https://github.com/Omgovich/jquery-scroller)
 
+* ScrollTrigger - [https://github.com/terwanerik/ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)
+* AOS - [https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
+* ScrollDir - [https://github.com/dollarshaveclub/scrolldir](https://github.com/dollarshaveclub/scrolldir)
+
 ### Infinite Scroll
 * jScroll - [https://github.com/pklauzinski/jscroll](https://github.com/pklauzinski/jscroll)
 * Infinite scroll -[https://github.com/metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll)
@@ -63,6 +67,8 @@
 ### Text Ellipsis
 * Ellipsis - [https://github.com/jjenzz/jquery.ellipsis](https://github.com/jjenzz/jquery.ellipsis)
 
+* SVG Tag Cloud - [https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin](https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin)
+
 ---
 
 ### Form
@@ -70,6 +76,7 @@
 * EmojiOne Area - [https://jsfiddle.net/1v03Lqnu/12/](https://jsfiddle.net/1v03Lqnu/12/)
 * RangeSlider - [https://github.com/andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js)
 * Autosize - [https://github.com/jackmoore/autosize](https://github.com/jackmoore/autosize)
+* Jquery Steps - [https://github.com/rstaib/jquery-steps](https://github.com/rstaib/jquery-steps)
 
 ### Validation
 * jqBootstrapValidation - [https://github.com/ReactiveRaven/jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation)
@@ -98,15 +105,20 @@
 * waitForImages - [https://github.com/alexanderdickson/waitForImages](https://github.com/alexanderdickson/waitForImages)
 * ImagesLoaded - [https://github.com/desandro/imagesloaded](https://github.com/desandro/imagesloaded)
 
+### Lazy Load
+* Lazad - [https://github.com/ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+
 ### Datepicker 
 * Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
 * Air Datepicker - [https://github.com/t1m0n/air-datepicker](https://github.com/t1m0n/air-datepicker)
+* FlatPickr - [https://github.com/chmln/flatpickr](https://github.com/chmln/flatpickr)
 
 ### Timepicker
 * ClockPicker - [http://weareoutman.github.io/clockpicker/](http://weareoutman.github.io/clockpicker/)
 
 ### Charts
 * Easy Pie Chart - [https://github.com/rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart)
+* Charts - [https://github.com/frappe/charts](https://github.com/frappe/charts)
 
 ### Table
 * TableSorter - [https://github.com/Mottie/tablesorter](https://github.com/Mottie/tablesorter)
@@ -120,3 +132,8 @@
 * StackBlur - [https://github.com/flozz/StackBlur](https://github.com/flozz/StackBlur)
 
 * Sketch - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
+
+* BarCode Writer - [http://bwip-js.metafloor.com/demo/demo.html](http://bwip-js.metafloor.com/demo/demo.html)
+
+### Sticky
+* StickyElements [https://github.com/iamvdo/stickyElements](https://github.com/iamvdo/stickyElements)
