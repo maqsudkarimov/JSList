@@ -6,6 +6,7 @@
 * Magnific Popup - [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
 * Sweet Modal - [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
 * Lity - [https://github.com/jsor/lity](https://github.com/jsor/lity)
+* LightGalley - [https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)
 
 ### Masonry
 * Salvattore - [https://github.com/rnmp/salvattore](https://github.com/rnmp/salvattore)
@@ -33,6 +34,7 @@
 * OWL - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 * FlexSlider 2 - [http://flexslider.woothemes.com/](http://flexslider.woothemes.com/)
 * SliderPro - [http://bqworks.com/slider-pro/](http://bqworks.com/slider-pro/)
+* LightSlider - [https://github.com/sachinchoolur/lightslider](https://github.com/sachinchoolur/lightslider)
 
 ### Paralax
 * Paralax.js - [http://pixelcog.github.io/parallax.js/](http://pixelcog.github.io/parallax.js/)
