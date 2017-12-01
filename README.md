@@ -139,3 +139,4 @@
 
 ### Sticky
 * StickyElements [https://github.com/iamvdo/stickyElements](https://github.com/iamvdo/stickyElements)
+* Theia Sticky Sidebar - [https://github.com/WeCodePixels/theia-sticky-sidebar](https://github.com/WeCodePixels/theia-sticky-sidebar)
