@@ -90,6 +90,7 @@
 ### Select
 * FastSelect - [https://github.com/dbrekalo/fastselect](https://github.com/dbrekalo/fastselect)
 * Nice Select - [https://github.com/hernansartorio/jquery-nice-select](https://github.com/hernansartorio/jquery-nice-select)
+* Selectize - [https://github.com/selectize/selectize.js](https://github.com/selectize/selectize.js)
 
 ### Notifications
 * SnackbarJS - [http://fezvrasta.github.io/snackbarjs/](http://fezvrasta.github.io/snackbarjs/)
