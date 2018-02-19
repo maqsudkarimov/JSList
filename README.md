@@ -39,6 +39,7 @@
 ### Paralax
 * Paralax.js - [http://pixelcog.github.io/parallax.js/](http://pixelcog.github.io/parallax.js/)
 * Rellax - [https://github.com/dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
+* BasicScroll - [https://github.com/electerious/basicScroll](https://github.com/electerious/basicScroll)
 
 ### Gallery
 * CollagePlus - [http://collageplus.edlea.com/](http://collageplus.edlea.com/)
