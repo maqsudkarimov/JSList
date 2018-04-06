@@ -7,6 +7,7 @@
 * Sweet Modal - [http://sweet-modal.adepto.as/](http://sweet-modal.adepto.as/)
 * Lity - [https://github.com/jsor/lity](https://github.com/jsor/lity)
 * LightGalley - [https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)
+* Alertify - [https://github.com/MohammadYounes/AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
 
 ### Masonry
 * Salvattore - [https://github.com/rnmp/salvattore](https://github.com/rnmp/salvattore)
