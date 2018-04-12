@@ -88,6 +88,7 @@
 ### Tabs
 * Tabslet - [http://vdw.github.io/Tabslet/](http://vdw.github.io/Tabslet/)
 * Jquery-Tabs - [https://github.com/jralph/jQuery-Tabs](https://github.com/jralph/jQuery-Tabs)
+* Bootstrap Tab drop - [https://github.com/nwhite89/bootstrap-tabdrop](https://github.com/nwhite89/bootstrap-tabdrop)
 
 ### Select
 * FastSelect - [https://github.com/dbrekalo/fastselect](https://github.com/dbrekalo/fastselect)
