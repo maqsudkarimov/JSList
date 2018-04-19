@@ -142,5 +142,8 @@
 * BarCode Writer - [http://bwip-js.metafloor.com/demo/demo.html](http://bwip-js.metafloor.com/demo/demo.html)
 
 ### Sticky
-* StickyElements [https://github.com/iamvdo/stickyElements](https://github.com/iamvdo/stickyElements)
+* StickyElements - [https://github.com/iamvdo/stickyElements](https://github.com/iamvdo/stickyElements)
 * Theia Sticky Sidebar - [https://github.com/WeCodePixels/theia-sticky-sidebar](https://github.com/WeCodePixels/theia-sticky-sidebar)
+
+### Panels 
+* JQUERY.PANELSNAP - [https://github.com/guidobouman/jquery-panelsnap](https://github.com/guidobouman/jquery-panelsnap)
