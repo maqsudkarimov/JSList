@@ -71,7 +71,8 @@
 ### Text Ellipsis
 * Ellipsis - [https://github.com/jjenzz/jquery.ellipsis](https://github.com/jjenzz/jquery.ellipsis)
 
-* SVG Tag Cloud - [https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin](https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin)
+### IMAGE EFFECT
+* mgGlitch - [https://github.com/hmongouachon/mgGlitch](https://github.com/hmongouachon/mgGlitch)
 
 ---
 
@@ -159,3 +160,4 @@
 
 ### TAG CLOUD
 * jQWCloud - [https://github.com/prashant1rana/jQWCloud](https://github.com/prashant1rana/jQWCloud)
+* SVG Tag Cloud - [https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin](https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin)
