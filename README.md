@@ -27,6 +27,9 @@
 * AOS - [https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
 * ScrollDir - [https://github.com/dollarshaveclub/scrolldir](https://github.com/dollarshaveclub/scrolldir)
 
+### SCROLL EFFECTS
+* Scrollie - [https://github.com/pntrivedy/jquery-scrollie](https://github.com/pntrivedy/jquery-scrollie)
+
 ### Infinite Scroll
 * jScroll - [https://github.com/pklauzinski/jscroll](https://github.com/pklauzinski/jscroll)
 * Infinite scroll -[https://github.com/metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll)
