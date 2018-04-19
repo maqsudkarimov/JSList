@@ -160,6 +160,7 @@
 ### MAP
 * Neighborhood Map - [https://github.com/cmdeveloped/neighborhood-map](https://github.com/cmdeveloped/neighborhood-map)
 * Store Locator - [https://github.com/googlemaps/js-store-locator](https://github.com/googlemaps/js-store-locator)
+* maplace.js - [https://github.com/danielemoraschi/maplace.js](https://github.com/danielemoraschi/maplace.js)
 
 ### TAG CLOUD
 * jQWCloud - [https://github.com/prashant1rana/jQWCloud](https://github.com/prashant1rana/jQWCloud)
