@@ -94,6 +94,7 @@
 * FastSelect - [https://github.com/dbrekalo/fastselect](https://github.com/dbrekalo/fastselect)
 * Nice Select - [https://github.com/hernansartorio/jquery-nice-select](https://github.com/hernansartorio/jquery-nice-select)
 * Selectize - [https://github.com/selectize/selectize.js](https://github.com/selectize/selectize.js)
+* Chained select - [https://github.com/tuupola/jquery_chained](https://github.com/tuupola/jquery_chained)
 
 ### Notifications
 * SnackbarJS - [http://fezvrasta.github.io/snackbarjs/](http://fezvrasta.github.io/snackbarjs/)
@@ -118,9 +119,13 @@
 * Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
 * Air Datepicker - [https://github.com/t1m0n/air-datepicker](https://github.com/t1m0n/air-datepicker)
 * FlatPickr - [https://github.com/chmln/flatpickr](https://github.com/chmln/flatpickr)
+* PIGNOSE Calendar - [https://github.com/KennethanCeyer/pg-calendar](https://github.com/KennethanCeyer/pg-calendar)
 
 ### Timepicker
 * ClockPicker - [http://weareoutman.github.io/clockpicker/](http://weareoutman.github.io/clockpicker/)
+
+### ColorPicker
+* WColPic - [https://github.com/firestormxyz/wcolpick](https://github.com/firestormxyz/wcolpick)
 
 ### Charts
 * Easy Pie Chart - [https://github.com/rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart)
@@ -147,3 +152,10 @@
 
 ### Panels 
 * JQUERY.PANELSNAP - [https://github.com/guidobouman/jquery-panelsnap](https://github.com/guidobouman/jquery-panelsnap)
+
+### MAP
+* Neighborhood Map - [https://github.com/cmdeveloped/neighborhood-map](https://github.com/cmdeveloped/neighborhood-map)
+* Store Locator - [https://github.com/googlemaps/js-store-locator](https://github.com/googlemaps/js-store-locator)
+
+### TAG CLOUD
+* jQWCloud - [https://github.com/prashant1rana/jQWCloud](https://github.com/prashant1rana/jQWCloud)
