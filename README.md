@@ -153,6 +153,7 @@
 ### Sticky
 * StickyElements - [https://github.com/iamvdo/stickyElements](https://github.com/iamvdo/stickyElements)
 * Theia Sticky Sidebar - [https://github.com/WeCodePixels/theia-sticky-sidebar](https://github.com/WeCodePixels/theia-sticky-sidebar)
+* stickyHeader - [https://github.com/LeEnno/stickyHeaders](https://github.com/LeEnno/stickyHeaders)
 
 ### Panels 
 * JQUERY.PANELSNAP - [https://github.com/guidobouman/jquery-panelsnap](https://github.com/guidobouman/jquery-panelsnap)
