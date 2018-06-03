@@ -166,3 +166,6 @@
 ### TAG CLOUD
 * jQWCloud - [https://github.com/prashant1rana/jQWCloud](https://github.com/prashant1rana/jQWCloud)
 * SVG Tag Cloud - [https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin](https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin)
+
+### ONE PAGE SLIDER
+* FSVS - [https://github.com/lukesnowden/FSVS](https://github.com/lukesnowden/FSVS)
