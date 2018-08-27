@@ -169,3 +169,6 @@
 
 ### ONE PAGE SLIDER
 * FSVS - [https://github.com/lukesnowden/FSVS](https://github.com/lukesnowden/FSVS)
+
+### Social Share
+* SocialShare - [https://github.com/AyumuKasuga/SocialShare](https://github.com/AyumuKasuga/SocialShare)
