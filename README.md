@@ -118,6 +118,7 @@
 
 ### Lazy Load
 * Lazad - [https://github.com/ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+* Lazy - [https://github.com/eisbehr-/jquery.lazy](https://github.com/eisbehr-/jquery.lazy)
 
 ### Datepicker 
 * Datepicker - [https://github.com/fengyuanchen/datepicker](https://github.com/fengyuanchen/datepicker)
